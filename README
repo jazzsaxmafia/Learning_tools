@@ -1,0 +1,7 @@
+Author: Taeksoo Kim
+
+Usage:
+python linearRegression.py <fileName> <alpha> <iteration_number>
+File format should be : x1,x2,x3 ... xn,y ; every element should be separated by comma
+
+This works for datasets with any dimension
